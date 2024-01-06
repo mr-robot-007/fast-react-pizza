@@ -1,6 +1,7 @@
-# React + Vite
+Deployment Link - https://fast-react-pizza-d993d.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application build using react for ordering pizzas.
+
 
 Currently, two official plugins are available:
 
